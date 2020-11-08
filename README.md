@@ -16,5 +16,6 @@
 ## 核心方法
 
 ## 实验结果
-
+![1](https://github.com/RBMCOPY/experiment1/blob/main/4f4eabddd7e4d4ad07ed4716e1ee77f.png)
+![2](https://github.com/RBMCOPY/experiment1/blob/main/4f4eabddd7e4d4ad07ed4716e1ee77f.png)
 ## 实验感想
